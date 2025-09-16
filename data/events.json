@@ -1,0 +1,11 @@
+[
+    {
+      "id": "UNIQUE-IDENTIFIER-MUST-ALWAYS-BE-UNIQUE",
+      "img": "assets/Event_Photos/bill.png",
+      "alt": "bill logo",
+      "title": "Bill's Title for learning students",
+      "short_desc": "Bill bill bill test short description",
+      "desc": "bill bill bill test description",
+      "timestamp": "2025-01-21T12:00:00"
+    }
+  ]

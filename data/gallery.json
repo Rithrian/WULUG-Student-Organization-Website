@@ -1,0 +1,8 @@
+[
+    {
+        "category_name":"Photo Category",
+        "photo_urls_folder": "./assets/Gallery_Photos/Photos1",
+        "title_color":"rgb(235, 213, 116)",
+        "timestamp":"2023-07-01T01:30:00"
+    }
+]

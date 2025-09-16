@@ -1,0 +1,28 @@
+[
+    {
+      "name": "Dale Jr.",
+      "position": "Secretary",
+      "photo": "./assets/Officer_Photos/dale.jpg"
+    },
+    {
+        "name": "Flower King",
+        "position": "President",
+        "photo": "./assets/Officer_Photos/flower.jpg"
+    },
+    {
+      "name": "Jack Greenstalk",
+      "position": "Vice President",
+      "photo": "./assets/Officer_Photos/jack.jpg"
+    },
+    {
+        "name": "Billy Bobby",
+        "position": "Treasurer",
+        "photo": "./assets/Officer_Photos/billy.jpg"
+    },
+    {
+      "name": "Rory Gilmerheimer",
+      "position": "Event Coordinator",
+      "photo": "./assets/Officer_Photos/rory.jpg"
+    }
+  ]
+  

@@ -1,0 +1,24 @@
+{
+  "navbar": [
+    {
+      "label": "Events",
+      "href": "index.html"
+    },
+    {
+      "label": "Join Us",
+      "href": "recruitment.html"
+    },
+    {
+      "label": "Gallery",
+      "href": "gallery.html"
+    },
+    {
+      "label": "Partnerships",
+      "href": "partnerships.html"
+    },
+    {
+      "label": "About Us",
+      "href": "about.html"
+    }
+  ]
+}
